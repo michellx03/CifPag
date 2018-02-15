@@ -1,0 +1,3 @@
+#Tomcat publish data
+#Wed Feb 14 23:49:33 BRST 2018
+org.eclipse.jst.jee.server\:/binary\:/home/michell/.m2/repository/org/springframework/spring-web/4.2.5.RELEASE/spring-web-4.2.5.RELEASE.jar=WEB-INF/lib/spring-web-4.2.5.RELEASE.jar

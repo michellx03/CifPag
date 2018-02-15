@@ -1,0 +1,4 @@
+
+fev 14, 2018 23:51:25.01 NEW SESSION
+fev 14, 2018 23:51:25.02 [4534:4575:0214/235124.890322:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.
+fev 14, 2018 23:51:25.03 Foi criada uma nova janela em uma sessão existente do navegador.
