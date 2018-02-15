@@ -15,8 +15,7 @@
 		<ul class="page-breadcrumb">
 			<li><a href="/CifPag/dashboard/index">Dashboard</a>
 				<i class="fa fa-circle"></i></li>
-			<li><span> Usuario</span> <i class="fa fa-circle"></i></li>
-			<li><a href="/CifPag/Usuario/Consulta">Consulta</a>
+			<li><a href="/CifPag/Usuario/Consulta">Usuario Consulta</a>
 				<i class="fa fa-circle"></i></li>
 			<li><span>Cadastro</span></li>
 		</ul>

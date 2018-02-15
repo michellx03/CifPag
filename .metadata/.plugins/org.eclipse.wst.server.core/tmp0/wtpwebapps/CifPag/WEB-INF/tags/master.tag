@@ -156,7 +156,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                         <i class="icon-close"></i>
                                     </a>
                                     <div class="input-group">
-                                        <input type="text" class="form-control" placeholder="Search...">
+                                        <input type="text" class="form-control" placeholder="Buscar...">
                                         <span class="input-group-btn">
                                             <a href="javascript:;" class="btn submit">
                                                 <i class="icon-magnifier"></i>
@@ -185,6 +185,8 @@ License: You must have a valid license purchased only from themeforest(the above
                                 </ul>
                             </li>
                             
+                            
+                            
                             <li id="usuarioli" class="nav-item start">
                                 <a href="javascript:;" class="nav-link nav-toggle">
                                     <i class="icon-user"></i>
@@ -209,6 +211,25 @@ License: You must have a valid license purchased only from themeforest(the above
                                     </li>
                                    
                                 </ul>
+                                
+                            </li>
+                            
+                            <li id="cida_nav" class="nav-item start">
+                                <a href="javascript:;" class="nav-link nav-toggle">
+                                    <i class="icon-settings"></i>
+                                    <span class="title">Sistema</span>
+                                    <span class="selected"></span>
+                                    <span class="arrow open"></span>
+                                </a>
+                                <ul class="sub-menu">
+                                    <li id="cidade_li_consulta" class="nav-item start">
+                                        <a href="/CifPag/Cidade/Consulta" class="nav-link ">
+                                            <i class="icon-user"></i>
+                                            <span class="title">Cidade</span>
+                                            <span class="selected"></span>
+                                        </a>
+                                    </li>    
+                                </ul>    
                             </li>
                             
                             
@@ -316,9 +337,8 @@ License: You must have a valid license purchased only from themeforest(the above
             <!-- BEGIN FOOTER -->
             </div></div></div>
             <div class="page-footer">
-                <div class="page-footer-inner"> 2016 &copy; Metronic Theme By
-                    <a target="_blank" href="http://keenthemes.com">Keenthemes</a> &nbsp;|&nbsp;
-                    <a href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes" title="Purchase Metronic just for 27$ and get lifetime updates for free" target="_blank">Purchase Metronic!</a>
+                <div class="page-footer-inner"> 2018 &copy; CifPag Aplication By
+                    <a target="_blank" href="http://keenthemes.com">Michell Cesar</a> &nbsp;
                 </div>
                 <div class="scroll-to-top">
                     <i class="icon-arrow-up"></i>

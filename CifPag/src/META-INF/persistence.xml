@@ -11,6 +11,11 @@
 		<mapping-file>META-INF/orm.xml</mapping-file>
 		<class>br.com.cifpag.entity.Usuario</class>
 		<class>br.com.cifpag.entity.UsuarioRegra</class>
+		
+		<properties>
+			<property name="hbm2dll.auto" value="create"/>
+		</properties>
+		
 	</persistence-unit>
 
 </persistence>

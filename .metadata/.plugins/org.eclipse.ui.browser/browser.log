@@ -2,3 +2,25 @@
 fev 14, 2018 23:51:25.01 NEW SESSION
 fev 14, 2018 23:51:25.02 [4534:4575:0214/235124.890322:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.
 fev 14, 2018 23:51:25.03 Foi criada uma nova janela em uma sessão existente do navegador.
+
+fev 15, 2018 18:12:50.37 NEW SESSION
+fev 15, 2018 18:12:50.38 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+fev 15, 2018 18:18:51.93 [3463:3505:0215/181851.934164:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.
+fev 15, 2018 18:18:52.04 Foi criada uma nova janela em uma sessão existente do navegador.
+fev 15, 2018 18:20:47.34 [3667:3709:0215/182047.348978:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.
+fev 15, 2018 18:20:47.39 Foi criada uma nova janela em uma sessão existente do navegador.
+fev 15, 2018 18:32:27.99 [4195:4237:0215/183227.991125:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.
+fev 15, 2018 18:32:28.07 Foi criada uma nova janela em uma sessão existente do navegador.
+fev 15, 2018 18:48:41.20 [4852:4893:0215/184841.200425:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.
+fev 15, 2018 18:48:41.24 Foi criada uma nova janela em uma sessão existente do navegador.
+fev 15, 2018 19:08:18.04 Foi criada uma nova janela em uma sessão existente do navegador.
+fev 15, 2018 19:08:18.04 [5497:5538:0215/190817.762686:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.
+fev 15, 2018 19:38:23.86 [2872:2914:0215/193823.858164:ERROR:mcs_client.cc(754)] Received close command, resetting connection.
+fev 15, 2018 20:26:51.19 [2872:2872:0215/202651.110935:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 103
+fev 15, 2018 20:31:08.03 [2872:2872:0215/203108.032606:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 121
+fev 15, 2018 20:43:59.05 [2872:2872:0215/204358.826374:ERROR:CONSOLE(168)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('http://gmail.com') does not match the recipient window's origin ('https://www.google.com.br').", source: chrome-search://most-visited/single.js (168)
+fev 15, 2018 21:00:02.28 [7465:7506:0215/210002.288059:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.
+fev 15, 2018 21:00:02.33 Foi criada uma nova janela em uma sessão existente do navegador.
+fev 15, 2018 21:25:14.29 [2872:2872:0215/212514.279308:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 29.136 s
+fev 15, 2018 21:26:42.43 [2872:2872:0215/212641.450204:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 29.136 s
+fev 15, 2018 21:28:41.48 [2872:2872:0215/212840.641759:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 29.136 s
