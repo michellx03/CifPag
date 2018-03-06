@@ -1,8 +1,7 @@
-<%@tag description="Simple Wrapper Tag" pageEncoding="UTF-8"%>
+<%@tag description="Simple Wrapper Tag"%>
 <%@attribute name="scripts_css" fragment="true" %>
 <%@attribute name="scripts_js_page_level_plugins" fragment="true" %>
 <%@attribute name="scripts_js_page_level_scripts" fragment="true" %>
-
 
 <!DOCTYPE html>
 <!-- 
@@ -100,11 +99,17 @@ License: You must have a valid license purchased only from themeforest(the above
                                     <i class="fa fa-angle-down"></i>
                                 </a>
                                 <ul class="dropdown-menu dropdown-menu-default">
+                       			                         
+                                     <li>
+                                        <a href="/CifPag/DadosUsuario/PerfilUsuario">
+                                            <i class="icon-user"></i> Perfil </a>
+                                    </li>
                                     
                                     <li>
                                         <a href="/CifPag/sistema/logout">
                                             <i class="icon-key"></i> Sair </a>
                                     </li>
+                                    
                                 </ul>
                             </li>
                             <!-- END USER LOGIN DROPDOWN -->
@@ -214,7 +219,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                 
                             </li>
                             
-                            <li id="cida_nav" class="nav-item start">
+                            <li id="sistema_nav" class="nav-item start">
                                 <a href="javascript:;" class="nav-link nav-toggle">
                                     <i class="icon-settings"></i>
                                     <span class="title">Sistema</span>
@@ -226,6 +231,27 @@ License: You must have a valid license purchased only from themeforest(the above
                                         <a href="/CifPag/Cidade/Consulta" class="nav-link ">
                                             <i class="icon-user"></i>
                                             <span class="title">Cidade</span>
+                                            <span class="selected"></span>
+                                        </a>
+                                    </li>    
+                                    <li id="endereco_li_consulta" class="nav-item start">
+                                        <a href="/CifPag/Endereco/Consulta" class="nav-link ">
+                                            <i class="icon-user"></i>
+                                            <span class="title">Endereco</span>
+                                            <span class="selected"></span>
+                                        </a>
+                                    </li>
+                                    <li id="empresa_li_consulta" class="nav-item start">
+                                        <a href="/CifPag/Empresa/Consulta" class="nav-link ">
+                                            <i class="icon-user"></i>
+                                            <span class="title">Empresa</span>
+                                            <span class="selected"></span>
+                                        </a>
+                                    </li>
+                                    <li id="tipo_pessoa_li_consulta" class="nav-item start">
+                                        <a href="/CifPag/TipoPessoa/Consulta" class="nav-link ">
+                                            <i class="icon-user"></i>
+                                            <span class="title">Tipo Pessoa</span>
                                             <span class="selected"></span>
                                         </a>
                                     </li>    

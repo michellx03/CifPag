@@ -1,0 +1,5 @@
+package br.com.cifpag.daoGenericos;
+
+public class TipoPessoaDaoImplementacao {
+
+}

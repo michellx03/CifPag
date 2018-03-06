@@ -44,6 +44,16 @@ public class UsuarioController {
 	}
 	}
 	
+	@RequestMapping(value = "/SalvarPerfil")
+	public String ViewDashboardCadastroSalvarPerfil(Usuario usuario) {
+		UsuarioModel usu = new UsuarioModel();
+		if(usu.Salvar(usuario).equals("sucesso")){
+			return "redirect:/DadosUsuario/PerfilUsuario?mensagem=sucesso";
+		}else{
+			return "redirect:/Usuario/Consulta?mensagem=falha";
+	}
+	}
+	
 	@RequestMapping(value = "/Excluir")
 	public String ViewDashboardCadastroSalvar(@RequestParam(value = "id") int id) {
 		UsuarioModel usu = new UsuarioModel();

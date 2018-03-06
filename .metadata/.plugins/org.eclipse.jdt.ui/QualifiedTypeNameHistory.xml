@@ -1,2 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.ModelAndView"/>
+<fullyQualifiedTypeName name="br.com.cifpag.entity.Cidade"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMethod"/>
+<fullyQualifiedTypeName name="br.com.cifpag.daoGenericos.CidadeDao"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+<fullyQualifiedTypeName name="br.com.cifpag.entity.Endereco"/>
+<fullyQualifiedTypeName name="br.com.cifpag.daoGenericos.EnderecoDao"/>
+<fullyQualifiedTypeName name="br.com.cifpag.daoGenericos.EnderecoDaoImplementacao"/>
+<fullyQualifiedTypeName name="br.com.cifpag.entity.DadosUsuario"/>
+<fullyQualifiedTypeName name="br.com.cifpag.daoGenericos.DadosUsuarioDao"/>
+<fullyQualifiedTypeName name="br.com.cifpag.daoGenericos.DadosUsuarioImplementacao"/>
+<fullyQualifiedTypeName name="br.com.cifpag.model.DadosUsuarioModel"/>
+<fullyQualifiedTypeName name="br.com.cifpag.dao.DaoImplementacao"/>
+<fullyQualifiedTypeName name="br.com.cifpag.entity.Empresa"/>
+<fullyQualifiedTypeName name="br.com.cifpag.daoGenericos.EmpresaDao"/>
+<fullyQualifiedTypeName name="br.com.cifpag.daoGenericos.CidadeDaoImplementacao"/>
+<fullyQualifiedTypeName name="br.com.cifpag.daoGenericos.EmpresaDaoImplementacao"/>
+<fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
+<fullyQualifiedTypeName name="br.com.cifpag.uteis.ConexaoEntityFactory"/>
+<fullyQualifiedTypeName name="javax.persistence.Query"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="br.com.cifpag.dao.Dao"/>
+<fullyQualifiedTypeName name="br.com.cifpag.entity.TipoPessoa"/>
+</qualifiedTypeNameHistroy>

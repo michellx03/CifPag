@@ -1,0 +1,9 @@
+package br.com.cifpag.entity;
+
+import javax.annotation.Generated;
+import javax.persistence.metamodel.StaticMetamodel;
+
+@Generated(value="Dali", date="2018-02-28T18:34:35.649-0300")
+@StaticMetamodel(Empresa.class)
+public class Empresa_ {
+}

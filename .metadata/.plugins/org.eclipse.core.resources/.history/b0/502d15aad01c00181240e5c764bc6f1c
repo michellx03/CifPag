@@ -1,0 +1,5 @@
+package br.com.cifpag.controller;
+
+public class EmpresaController {
+
+}

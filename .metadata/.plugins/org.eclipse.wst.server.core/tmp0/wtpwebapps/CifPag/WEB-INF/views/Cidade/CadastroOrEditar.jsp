@@ -130,7 +130,8 @@
 	<jsp:attribute name="scripts_js_page_level_scripts">
 	<script>
 		$(document).ready(function() {
-			$("#consulta_produto").addClass('active open');
+			$("#sistema_nav").addClass('active open');
+			$("#cidade_li_consulta").addClass('active open');
 			
 			
 			if( $("#imgDaTela").attr("src") == ""){
