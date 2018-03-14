@@ -1,0 +1,33 @@
+package br.com.cifpag.entity;
+
+import java.sql.Date;
+import javax.annotation.Generated;
+import javax.persistence.metamodel.SingularAttribute;
+import javax.persistence.metamodel.StaticMetamodel;
+
+@Generated(value="Dali", date="2018-03-13T16:12:44.300-0300")
+@StaticMetamodel(Pedido.class)
+public class Pedido_ {
+	public static volatile SingularAttribute<Pedido, Double> pedi_preco_total_produto;
+	public static volatile SingularAttribute<Pedido, Double> pedi_total_desconto_produto;
+	public static volatile SingularAttribute<Pedido, Double> pedi_valor_desconto_produto;
+	public static volatile SingularAttribute<Pedido, Double> pedi_porcentagem_desconto_produto;
+	public static volatile SingularAttribute<Pedido, Integer> pedi_quantidade_total;
+	public static volatile SingularAttribute<Pedido, Double> pedi_total_peso;
+	public static volatile SingularAttribute<Pedido, Double> pedi_desconto_total;
+	public static volatile SingularAttribute<Pedido, Double> pedi_porcentagem_total;
+	public static volatile SingularAttribute<Pedido, Double> pedi_valor_total;
+	public static volatile SingularAttribute<Pedido, Double> pedi_valor_final;
+	public static volatile SingularAttribute<Pedido, Integer> pedi_empresa;
+	public static volatile SingularAttribute<Pedido, Integer> pedi_vendedor;
+	public static volatile SingularAttribute<Pedido, Integer> pedi_cliente;
+	public static volatile SingularAttribute<Pedido, Integer> pedi_operacao;
+	public static volatile SingularAttribute<Pedido, Integer> pediId;
+	public static volatile SingularAttribute<Pedido, String> pediNumeroDocumento;
+	public static volatile SingularAttribute<Pedido, Date> pediDataDocumento;
+	public static volatile SingularAttribute<Pedido, Integer> pediNumeroDocumentoFiscal;
+	public static volatile SingularAttribute<Pedido, String> pediProduto;
+	public static volatile SingularAttribute<Pedido, Double> pediQuantidade;
+	public static volatile SingularAttribute<Pedido, String> pediUnidade;
+	public static volatile SingularAttribute<Pedido, Double> pediPrecoUnitario_produto;
+}

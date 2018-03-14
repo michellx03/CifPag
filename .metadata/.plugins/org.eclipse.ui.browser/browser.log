@@ -212,3 +212,119 @@ mar 06, 2018 12:55:32.86 [3264:3264:0306/125532.799019:ERROR:media_internals.cc(
 
 mar 06, 2018 15:53:27.82 NEW SESSION
 mar 06, 2018 15:53:27.83 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+mar 06, 2018 16:29:10.58 [3826:3867:0306/162910.581264:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.
+mar 06, 2018 16:29:10.72 Foi criada uma nova janela em uma sessão existente do navegador.
+mar 06, 2018 16:36:48.75 [4202:4243:0306/163648.755820:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.
+mar 06, 2018 16:36:48.86 Foi criada uma nova janela em uma sessão existente do navegador.
+mar 06, 2018 17:29:10.86 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+mar 06, 2018 17:29:11.11 [5647:5690:0306/172911.112220:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.
+mar 06, 2018 17:29:11.37 Foi criada uma nova janela em uma sessão existente do navegador.
+mar 06, 2018 17:45:35.79 [2322:2322:0306/174535.361761:ERROR:sync_control_vsync_provider.cc(62)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+mar 06, 2018 20:29:42.48 Foi criada uma nova janela em uma sessão existente do navegador.
+mar 06, 2018 20:29:42.52 [8191:8233:0306/202942.167147:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.
+mar 06, 2018 21:01:52.19 [2243:2243:0306/210152.186628:ERROR:media_internals.cc(102)] Cannot get RenderProcessHost
+mar 06, 2018 21:01:52.20 [2243:2243:0306/210152.202802:ERROR:media_internals.cc(102)] Cannot get RenderProcessHost
+mar 06, 2018 21:01:52.22 [2243:2243:0306/210152.227060:ERROR:media_internals.cc(102)] Cannot get RenderProcessHost
+mar 06, 2018 21:01:52.24 [2243:2243:0306/210152.240492:ERROR:media_internals.cc(102)] Cannot get RenderProcessHost
+
+mar 09, 2018 10:14:34.61 NEW SESSION
+mar 09, 2018 10:14:34.61 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+mar 09, 2018 11:05:22.68 [4941:4982:0309/110522.683288:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.
+mar 09, 2018 11:05:22.74 Foi criada uma nova janela em uma sessão existente do navegador.
+mar 09, 2018 14:13:57.82 [3061:3061:0309/141357.587769:ERROR:media_internals.cc(102)] Cannot get RenderProcessHost
+mar 09, 2018 14:13:57.84 [3061:3061:0309/141357.598597:ERROR:media_internals.cc(102)] Cannot get RenderProcessHost
+mar 09, 2018 14:13:57.84 [3061:3061:0309/141357.605956:ERROR:media_internals.cc(102)] Cannot get RenderProcessHost
+mar 09, 2018 14:13:57.84 [3061:3061:0309/141357.617237:ERROR:media_internals.cc(102)] Cannot get RenderProcessHost
+
+mar 10, 2018 08:30:02.31 NEW SESSION
+mar 10, 2018 08:30:02.31 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+mar 10, 2018 09:07:03.08 Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+
+mar 12, 2018 09:42:04.64 NEW SESSION
+mar 12, 2018 09:42:04.64 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+mar 12, 2018 09:42:05.10 [2153:2194:0312/094205.105224:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -106
+mar 12, 2018 09:42:05.11 [2153:2194:0312/094205.117434:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+mar 12, 2018 09:42:27.29 [2153:2194:0312/094227.289258:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -106
+mar 12, 2018 09:42:30.78 [2153:2194:0312/094230.780327:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+mar 12, 2018 09:43:21.62 [2153:2194:0312/094321.624427:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+mar 12, 2018 09:43:26.78 [2153:2194:0312/094326.783132:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -106
+mar 12, 2018 09:45:06.05 [2153:2194:0312/094506.055331:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -106
+mar 12, 2018 09:45:16.88 [2153:2194:0312/094516.889148:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+mar 12, 2018 09:48:37.46 [2153:2194:0312/094837.462946:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -106
+mar 12, 2018 09:48:59.28 [2153:2194:0312/094859.285032:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+mar 12, 2018 09:50:22.48 [2153:2153:0312/095022.487361:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+mar 12, 2018 09:50:43.15 [2153:2153:0312/095043.154924:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+mar 12, 2018 09:51:32.78 [2153:2153:0312/095132.784771:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+mar 12, 2018 09:53:10.34 [2153:2153:0312/095310.339864:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+mar 12, 2018 09:54:31.62 [2738:2779:0312/095431.624256:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.
+mar 12, 2018 09:54:31.67 Foi criada uma nova janela em uma sessão existente do navegador.
+mar 12, 2018 09:55:20.18 [2153:2194:0312/095520.186579:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+mar 12, 2018 09:55:32.63 [2153:2194:0312/095532.633611:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -106
+mar 12, 2018 09:57:04.53 [2153:2153:0312/095704.538359:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+mar 12, 2018 10:03:33.98 [2153:2153:0312/100333.986999:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+mar 12, 2018 10:05:20.19 [2153:2194:0312/100520.198702:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+mar 12, 2018 10:05:32.64 [2153:2194:0312/100532.640004:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -106
+mar 12, 2018 10:10:44.16 [3632:3673:0312/101044.161443:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.
+mar 12, 2018 10:10:44.21 Foi criada uma nova janela em uma sessão existente do navegador.
+mar 12, 2018 10:22:52.69 Foi criada uma nova janela em uma sessão existente do navegador.
+mar 12, 2018 10:22:52.71 [4080:4121:0312/102252.311033:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.
+mar 12, 2018 10:25:28.58 Foi criada uma nova janela em uma sessão existente do navegador.
+mar 12, 2018 10:25:28.58 [4289:4330:0312/102528.193209:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.
+mar 12, 2018 10:30:17.49 Foi criada uma nova janela em uma sessão existente do navegador.
+mar 12, 2018 10:30:17.51 [4566:4607:0312/103017.026180:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.
+mar 12, 2018 10:31:48.69 Foi criada uma nova janela em uma sessão existente do navegador.
+mar 12, 2018 10:31:48.69 [4744:4785:0312/103148.630716:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.
+mar 12, 2018 10:35:57.65 [4970:5011:0312/103557.655254:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.
+mar 12, 2018 10:35:57.72 Foi criada uma nova janela em uma sessão existente do navegador.
+mar 12, 2018 10:36:24.53 [2153:2153:0312/103624.487398:ERROR:media_internals.cc(102)] Cannot get RenderProcessHost
+mar 12, 2018 10:36:24.53 [2153:2153:0312/103624.496717:ERROR:media_internals.cc(102)] Cannot get RenderProcessHost
+mar 12, 2018 10:36:24.53 [2153:2153:0312/103624.500064:ERROR:media_internals.cc(102)] Cannot get RenderProcessHost
+mar 12, 2018 10:36:24.53 [2153:2153:0312/103624.508780:ERROR:media_internals.cc(102)] Cannot get RenderProcessHost
+mar 12, 2018 10:36:24.53 [2153:2153:0312/103624.515902:ERROR:media_internals.cc(102)] Cannot get RenderProcessHost
+
+mar 12, 2018 10:46:47.91 NEW SESSION
+mar 12, 2018 10:46:47.91 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+mar 12, 2018 10:51:29.57 [2793:2834:0312/105129.568662:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.
+mar 12, 2018 10:51:29.70 Foi criada uma nova janela em uma sessão existente do navegador.
+mar 12, 2018 10:54:51.92 
+mar 12, 2018 10:54:51.94 (nautilus:3056): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+mar 12, 2018 10:54:51.94 
+mar 12, 2018 10:54:51.94 (nautilus:3056): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+mar 12, 2018 10:55:11.07 
+mar 12, 2018 10:55:11.07 (nautilus:3183): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+mar 12, 2018 10:55:11.08 
+mar 12, 2018 10:55:11.08 (nautilus:3183): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+mar 12, 2018 11:23:42.74 [2263:2263:0312/112342.734084:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 106
+mar 12, 2018 11:25:08.66 [2263:2263:0312/112508.662083:ERROR:media_internals.cc(102)] Cannot get RenderProcessHost
+mar 12, 2018 11:25:08.66 [2263:2263:0312/112508.663159:ERROR:media_internals.cc(102)] Cannot get RenderProcessHost
+mar 12, 2018 11:25:08.67 [2263:2263:0312/112508.663622:ERROR:media_internals.cc(102)] Cannot get RenderProcessHost
+mar 12, 2018 11:25:08.68 [2263:2263:0312/112508.686249:ERROR:media_internals.cc(102)] Cannot get RenderProcessHost
+mar 12, 2018 11:25:08.69 [2263:2263:0312/112508.695108:ERROR:media_internals.cc(102)] Cannot get RenderProcessHost
+mar 12, 2018 11:25:08.71 [2263:2263:0312/112508.713554:ERROR:media_internals.cc(102)] Cannot get RenderProcessHost
+mar 12, 2018 11:25:08.72 [2263:2263:0312/112508.721984:ERROR:media_internals.cc(102)] Cannot get RenderProcessHost
+
+mar 13, 2018 14:41:41.23 NEW SESSION
+mar 13, 2018 14:41:41.23 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+mar 13, 2018 15:09:18.68 [4555:4597:0313/150918.682319:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.
+mar 13, 2018 15:09:18.78 Foi criada uma nova janela em uma sessão existente do navegador.
+mar 13, 2018 15:25:51.88 [5186:5227:0313/152551.881875:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.
+mar 13, 2018 15:25:51.95 Foi criada uma nova janela em uma sessão existente do navegador.
+mar 13, 2018 15:33:44.82 [5565:5607:0313/153344.815385:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.
+mar 13, 2018 15:33:44.92 Foi criada uma nova janela em uma sessão existente do navegador.
+mar 13, 2018 17:05:14.25 [3220:3261:0313/170514.240173:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -106
+mar 13, 2018 17:05:39.80 [3220:3261:0313/170539.803953:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -106
+mar 13, 2018 17:06:22.78 [3220:3261:0313/170622.780048:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -106
+mar 13, 2018 17:07:46.39 [3220:3261:0313/170746.389938:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -106
+mar 13, 2018 17:10:49.20 [3220:3261:0313/171049.191889:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -106
+mar 13, 2018 17:15:40.09 [3220:3220:0313/171540.097315:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+mar 13, 2018 17:16:07.39 [3220:3220:0313/171607.398889:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+mar 13, 2018 17:16:47.92 [3220:3220:0313/171647.928731:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+mar 13, 2018 17:18:25.80 [3220:3261:0313/171825.791855:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -106
+mar 13, 2018 17:18:31.08 [3220:3220:0313/171831.087845:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+mar 13, 2018 23:52:09.23 [3220:3220:0313/235209.117373:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+mar 13, 2018 23:52:28.85 [3220:3220:0313/235228.752473:ERROR:media_internals.cc(102)] Cannot get RenderProcessHost
+
+mar 14, 2018 11:48:34.88 NEW SESSION
+mar 14, 2018 11:48:34.89 Foi criada uma nova janela em uma sessão existente do navegador.
+mar 14, 2018 11:48:34.89 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+mar 14, 2018 11:48:34.90 [5242:5285:0314/114834.276666:ERROR:browser_gpu_channel_host_factory.cc(121)] Failed to launch GPU process.

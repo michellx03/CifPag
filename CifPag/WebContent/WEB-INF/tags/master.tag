@@ -26,7 +26,7 @@ License: You must have a valid license purchased only from themeforest(the above
 
     <head>
         <meta charset="utf-8" />
-        <title>Metronic Admin Theme #1 | Admin Dashboard</title>
+        <title>CifPag</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta content="width=device-width, initial-scale=1" name="viewport" />
         <meta content="Preview page of Metronic Admin Theme #1 for statistics, charts, recent events and reports" name="description" />
@@ -214,7 +214,33 @@ License: You must have a valid license purchased only from themeforest(the above
                                             <span class="selected"></span>
                                         </a>
                                     </li>
-                                   
+                                     <li id="dados_usuario_acesso_li_consulta" class="nav-item start">
+                                        <a href="/CifPag/DadosUsuario/Consulta" class="nav-link ">
+                                            <i class="icon-lock"></i>
+                                            <span class="title">Dados Usuarios</span>
+                                            <span class="selected"></span>
+                                        </a>
+                                    </li>
+                                </ul>
+                                
+                            </li>
+                            
+                            <li id="pedidoli" class="nav-item start">
+                                <a href="javascript:;" class="nav-link nav-toggle">
+                                    <i class="icon-user"></i>
+                                    <span class="title">Controle de Pedido</span>
+                                    <span class="selected"></span>
+                                    <span class="arrow open"></span>
+                                </a>
+                                <ul class="sub-menu">
+                                    <li id="pedido_li_consulta" class="nav-item start">
+                                        <a href="/CifPag/Pedido/Consulta" class="nav-link ">
+                                            <i class="icon-user"></i>
+                                            <span class="title">Pedido</span>
+                                            <span class="selected"></span>
+                                        </a>
+                                    </li>
+                                    
                                 </ul>
                                 
                             </li>
@@ -254,7 +280,21 @@ License: You must have a valid license purchased only from themeforest(the above
                                             <span class="title">Tipo Pessoa</span>
                                             <span class="selected"></span>
                                         </a>
-                                    </li>    
+                                    </li>   
+                                    <li id="vendedor_li_consulta" class="nav-item start">
+                                        <a href="/CifPag/Vendedor/Consulta" class="nav-link ">
+                                            <i class="icon-user"></i>
+                                            <span class="title">Vendedor</span>
+                                            <span class="selected"></span>
+                                        </a>
+                                    </li> 
+                                    <li id="operacao_li_consulta" class="nav-item start">
+                                        <a href="/CifPag/Operacao/Consulta" class="nav-link ">
+                                            <i class="icon-user"></i>
+                                            <span class="title">Operacao</span>
+                                            <span class="selected"></span>
+                                        </a>
+                                    </li>
                                 </ul>    
                             </li>
                             

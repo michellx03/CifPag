@@ -130,7 +130,7 @@ try{
 												<div class="form-group">
 													<label class="control-label">Data Nascimento</label> 
 													<i class="fa"></i> 
-													<input type="text" class="form-control" required value="<%out.print(dadosUsuario.getClieDataNascimento()); %>" name="clieDataNascimento" />
+													<input type="date" class="form-control" required value="<%out.print(dadosUsuario.getClieDataNascimento()); %>" name="clieDataNascimento" />
 												</div>
 												
 												<div class="form-group">

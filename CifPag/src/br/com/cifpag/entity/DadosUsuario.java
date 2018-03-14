@@ -10,6 +10,9 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+import org.springframework.format.annotation.DateTimeFormat;
+import org.springframework.format.annotation.DateTimeFormat.ISO;
+
 @Entity
 @Table(name="dados_usuario", schema="sistema")
 public class DadosUsuario implements Serializable {
@@ -48,6 +51,17 @@ public class DadosUsuario implements Serializable {
 	
 	@Column(name="clie_tipo_pessoa")
 	private Integer clieTipoPessoa;
+	
+	@Column(name="clie_usuario")
+	private Integer clieUsuario;
+
+	public Integer getClieUsuario() {
+		return clieUsuario;
+	}
+
+	public void setClieUsuario(Integer clieUsuario) {
+		this.clieUsuario = clieUsuario;
+	}
 
 	public Date getClieDataNascimento() {
 		return clieDataNascimento;
