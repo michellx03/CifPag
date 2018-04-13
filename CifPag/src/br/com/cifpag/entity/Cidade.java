@@ -28,6 +28,8 @@ public class Cidade implements Serializable {
 		return cidaId;
 	}
 
+	
+	
 	public void setCidaId(Integer cidaId) {
 		this.cidaId = cidaId;
 	}

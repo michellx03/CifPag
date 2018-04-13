@@ -2532,3 +2532,806 @@
 2018-03-14 15:13:47,799 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
 2018-03-14 15:13:47,824 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-03-14 15:13:47,825 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-14 16:19:25,729 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-14 16:19:25,743 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-14 16:19:25,758 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-14 16:19:25,773 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-14 16:22:07,423 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-14 16:22:07,430 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-14 16:22:07,441 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-14 16:22:07,452 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-14 16:22:49,123 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-14 16:22:49,142 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-14 16:22:49,159 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-14 16:22:49,160 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 11:24:49,695 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-03-15 11:25:01,165 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 11:25:01,166 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 11:25:01,259 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 11:25:01,276 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 11:35:46,124 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 11:35:46,175 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 11:35:46,178 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 11:35:46,215 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 11:35:50,918 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 11:35:50,934 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 11:35:50,948 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 11:35:50,949 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 12:38:46,918 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 12:38:46,985 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 12:38:47,040 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 12:38:47,049 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 12:47:59,231 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 12:47:59,254 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 12:47:59,280 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 12:47:59,281 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 12:51:39,984 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 12:51:39,989 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 12:51:40,024 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 12:51:40,026 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 12:55:59,135 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 12:55:59,159 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 12:55:59,193 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 12:55:59,232 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 12:57:25,617 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 12:57:25,662 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 12:57:25,697 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 12:57:25,698 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 12:57:59,909 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 12:57:59,921 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 12:57:59,957 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 12:57:59,958 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 12:58:50,347 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 12:58:50,370 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 12:58:50,399 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 12:58:50,400 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 12:59:56,108 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 12:59:56,117 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 12:59:56,165 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 12:59:56,166 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 13:07:02,157 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:07:02,163 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 13:07:02,187 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:07:02,192 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 13:07:55,763 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:07:55,793 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 13:07:55,835 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:07:55,836 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 13:11:43,127 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:11:43,154 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 13:11:43,164 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:11:43,171 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 13:12:25,748 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:12:25,754 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 13:12:25,771 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:12:25,788 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 13:16:47,672 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:16:47,677 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 13:16:47,717 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:16:47,718 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 13:20:20,815 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:20:20,836 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 13:20:20,877 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:20:20,877 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 13:23:50,314 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:23:50,315 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 13:23:50,344 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:23:50,345 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 13:24:33,174 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:24:33,175 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 13:24:33,238 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:24:33,239 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 13:36:15,941 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:36:15,973 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 13:36:15,995 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:36:15,996 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 13:41:32,305 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:41:32,329 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 13:41:32,534 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:41:32,593 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 13:44:04,909 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:44:04,941 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 13:44:04,968 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:44:04,969 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 13:44:14,611 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:44:14,631 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 13:44:14,638 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:44:14,639 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 13:45:39,896 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:45:39,929 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 13:45:39,931 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:45:39,932 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 13:48:27,785 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:48:27,796 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 13:48:27,818 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:48:27,818 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 13:50:01,070 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:50:01,089 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 13:50:01,117 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:50:01,132 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 13:51:30,961 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:51:30,962 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 13:51:30,964 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:51:31,005 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 13:53:59,375 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:53:59,387 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 13:53:59,425 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:53:59,428 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 13:55:54,472 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:55:54,493 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 13:55:54,495 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 13:55:54,516 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 14:03:35,908 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 14:03:35,929 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 14:03:35,934 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 14:03:35,955 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 14:05:39,092 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 14:05:39,104 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 14:05:39,125 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 14:05:39,125 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 14:06:28,600 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 14:06:28,615 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 14:06:28,638 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 14:06:28,639 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 14:08:39,553 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 14:08:39,576 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 14:08:39,601 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 14:08:39,602 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 15:27:05,843 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 15:27:05,926 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 15:27:05,976 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 15:27:05,981 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 15:29:57,785 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 15:29:57,801 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 15:29:57,808 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 15:29:57,816 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-15 15:32:13,636 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 15:32:13,638 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-15 15:32:13,651 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-15 15:32:13,661 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-16 14:07:08,678 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-03-16 14:07:14,398 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-16 14:07:14,399 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-16 14:07:14,449 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-16 14:07:14,450 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-16 14:15:45,040 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-16 14:15:45,074 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-16 14:15:45,082 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-16 14:15:45,082 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-16 14:16:50,504 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-16 14:16:50,525 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-16 14:16:50,536 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-16 14:16:50,546 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-16 16:32:30,517 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-16 16:32:30,567 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-16 16:32:30,590 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-16 16:32:30,597 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-16 16:34:20,597 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-16 16:34:20,607 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-16 16:34:20,609 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-16 16:34:20,685 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-16 16:37:00,475 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-16 16:37:00,483 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-16 16:37:00,503 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-16 16:37:00,504 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-16 16:44:27,054 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-16 16:44:27,075 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-16 16:44:27,093 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-16 16:44:27,101 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-16 16:45:41,231 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-16 16:45:41,237 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-16 16:45:41,306 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-16 16:45:41,308 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-16 16:47:31,051 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-16 16:47:31,052 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-16 16:47:31,069 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-16 16:47:31,071 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-16 17:00:50,603 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-16 17:00:50,628 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-16 17:00:50,661 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-16 17:00:50,669 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-16 17:03:52,160 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-16 17:03:52,168 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-16 17:03:52,184 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-16 17:03:52,185 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-16 17:08:32,573 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-16 17:08:32,598 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-16 17:08:32,605 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-16 17:08:32,606 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-25 21:24:34,913 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-03-25 21:24:46,366 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:24:46,367 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-25 21:24:46,465 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:24:46,476 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-25 21:44:48,992 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:44:49,034 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-25 21:44:49,050 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:44:49,051 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-25 21:46:57,127 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:46:57,150 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-25 21:46:57,157 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:46:57,158 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-25 21:47:19,192 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:47:19,207 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-25 21:47:19,536 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:47:19,539 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-25 21:47:27,374 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:47:27,375 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-25 21:47:27,398 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:47:27,412 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-25 21:47:40,298 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:47:40,299 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-25 21:47:40,403 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:47:40,404 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-25 21:48:17,121 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:48:17,122 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-25 21:48:17,125 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:48:17,160 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-25 21:51:40,523 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:51:40,529 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-25 21:51:40,546 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:51:40,557 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-25 21:53:03,182 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:53:03,186 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-25 21:53:03,221 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:53:03,222 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-25 21:53:09,854 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:53:09,854 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-25 21:53:09,856 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:53:09,878 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-25 21:53:45,642 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:53:45,643 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-25 21:53:45,704 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:53:45,728 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-25 21:54:28,663 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:54:28,668 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-25 21:54:28,707 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:54:28,708 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-25 21:54:34,207 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:54:34,208 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-25 21:54:34,231 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:54:34,232 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-25 21:57:24,345 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:57:24,346 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-25 21:57:24,349 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 21:57:24,358 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-25 22:31:54,850 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 22:31:54,873 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-25 22:31:54,877 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 22:31:54,883 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-25 22:36:28,161 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 22:36:28,193 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-25 22:36:28,203 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 22:36:28,217 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-25 22:36:36,400 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 22:36:36,400 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-25 22:36:36,410 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 22:36:36,411 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-25 22:38:57,421 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 22:38:57,422 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-25 22:38:57,436 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 22:38:57,445 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-25 22:40:06,856 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 22:40:06,874 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-25 22:40:06,876 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 22:40:06,877 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-25 22:41:10,405 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 22:41:10,406 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-25 22:41:10,408 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 22:41:10,424 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-25 22:42:16,842 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 22:42:16,843 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-25 22:42:16,844 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 22:42:16,869 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-25 22:47:02,577 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 22:47:02,589 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-25 22:47:02,594 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 22:47:02,595 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-25 22:48:40,975 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 22:48:41,015 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-25 22:48:41,035 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-25 22:48:41,036 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-03-28 11:02:13,123 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-03-28 11:02:19,536 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-28 11:02:19,548 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-03-28 11:02:19,588 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-28 11:02:19,600 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 18:07:34,895 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-04-09 18:07:42,297 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 18:07:42,298 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 18:07:42,345 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 18:07:42,353 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 19:12:37,657 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 19:12:37,689 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 19:12:37,726 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 19:12:37,727 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 19:13:40,475 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 19:13:40,476 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 19:13:40,506 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 19:13:40,507 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 19:13:44,322 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 19:13:44,338 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 19:13:44,360 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 19:13:44,388 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 19:13:47,309 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 19:13:47,310 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 19:13:47,327 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 19:13:47,328 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 19:15:28,699 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 19:15:28,702 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 19:15:28,730 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 19:15:28,740 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 19:22:28,798 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-04-09 19:22:35,377 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 19:22:35,380 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 19:22:35,398 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 19:22:35,409 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 19:49:07,138 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-04-09 19:49:14,113 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 19:49:14,132 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 19:49:14,147 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 19:49:14,163 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 20:37:24,312 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-04-09 20:37:33,362 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 20:37:33,369 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 20:37:33,431 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 20:37:33,436 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 20:53:23,752 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-04-09 20:53:30,968 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 20:53:30,981 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 20:53:31,032 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 20:53:31,043 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 21:48:02,520 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 21:48:02,559 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 21:48:02,570 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 21:48:02,595 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 21:55:26,383 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 21:55:26,555 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 21:55:26,583 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 21:55:26,584 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 23:04:07,559 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:04:07,597 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 23:04:07,646 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:04:07,647 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 23:04:22,745 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:04:22,746 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 23:04:22,776 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:04:22,777 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 23:04:40,985 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:04:41,025 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 23:04:41,027 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:04:41,028 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 23:04:58,971 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:04:58,972 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 23:04:59,426 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:04:59,427 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 23:08:53,062 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:08:53,088 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 23:08:53,113 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:08:53,123 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 23:09:43,364 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:09:43,392 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 23:09:43,429 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:09:43,430 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 23:10:28,149 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:10:28,163 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 23:10:28,200 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:10:28,201 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 23:13:01,821 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:13:01,837 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 23:13:01,860 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:13:01,868 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 23:14:23,625 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:14:23,654 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 23:14:23,773 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:14:23,796 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 23:16:15,431 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:16:15,453 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 23:16:15,456 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:16:15,486 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 23:18:08,099 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:18:08,112 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 23:18:08,141 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:18:08,141 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 23:19:14,121 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:19:14,130 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 23:19:14,132 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:19:14,137 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 23:20:26,801 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:20:26,815 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 23:20:26,838 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:20:26,839 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 23:22:22,330 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:22:22,358 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 23:22:22,417 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:22:22,418 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 23:25:55,237 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:25:55,264 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 23:25:55,271 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:25:55,288 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 23:29:13,509 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:29:13,522 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 23:29:13,539 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:29:13,539 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 23:30:52,380 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:30:52,402 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 23:30:52,427 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:30:52,439 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 23:32:19,091 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:32:19,134 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 23:32:19,157 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:32:19,172 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 23:45:28,835 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:45:28,863 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 23:45:28,890 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:45:28,891 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 23:48:03,337 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:48:03,348 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 23:48:03,372 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:48:03,375 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 23:55:30,273 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:55:30,300 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 23:55:30,332 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:55:30,345 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-09 23:58:30,447 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:58:30,484 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-09 23:58:30,530 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-09 23:58:30,538 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-10 00:07:08,298 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:07:08,327 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-10 00:07:08,334 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:07:08,335 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-10 00:10:47,367 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:10:47,382 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-10 00:10:47,395 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:10:47,396 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-10 00:20:42,428 [Worker-160] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:20:42,446 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-10 00:20:42,450 [Worker-160] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:20:42,451 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-10 00:20:57,780 [Worker-160] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:20:57,780 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-10 00:20:57,782 [Worker-160] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:20:57,785 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-10 00:22:01,138 [Worker-161] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:22:01,146 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-10 00:22:01,158 [Worker-161] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:22:01,159 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-10 00:22:18,441 [Worker-163] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:22:18,442 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-10 00:22:18,465 [Worker-163] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:22:18,466 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-10 00:24:14,694 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:24:14,707 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-10 00:24:14,710 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:24:14,711 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-10 00:30:03,119 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:30:03,139 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-10 00:30:03,176 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:30:03,177 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-10 00:42:05,872 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:42:05,901 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-10 00:42:05,950 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:42:05,951 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-10 00:42:17,594 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:42:17,609 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-10 00:42:17,611 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:42:17,635 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-10 00:42:40,115 [Worker-172] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:42:40,137 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-10 00:42:40,139 [Worker-172] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:42:40,157 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-10 00:44:29,778 [Worker-173] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:44:29,798 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-10 00:44:29,800 [Worker-173] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:44:29,817 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-10 00:44:58,917 [Worker-175] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:44:58,918 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-10 00:44:58,944 [Worker-175] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:44:58,953 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-10 00:45:05,419 [Worker-172] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:45:05,462 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-10 00:45:05,480 [Worker-172] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:45:05,481 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-10 00:45:23,306 [Worker-178] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:45:23,316 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-10 00:45:23,330 [Worker-178] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:45:23,331 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-10 00:53:34,276 [Worker-186] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:53:34,309 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-10 00:53:34,334 [Worker-186] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 00:53:34,344 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-10 01:08:21,971 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-04-10 01:08:29,520 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 01:08:29,521 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-10 01:08:29,590 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 01:08:29,591 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-10 01:48:46,307 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 01:48:46,394 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-10 01:48:46,444 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 01:48:46,449 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-10 01:48:55,750 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 01:48:55,802 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-10 01:48:55,819 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 01:48:55,835 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-10 01:48:59,280 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 01:48:59,296 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-10 01:48:59,333 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 01:48:59,336 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-10 01:50:27,504 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 01:50:27,518 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-10 01:50:27,529 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 01:50:27,530 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-10 01:50:31,026 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 01:50:31,037 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-10 01:50:31,074 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 01:50:31,327 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-10 01:50:41,102 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 01:50:41,103 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-10 01:50:41,158 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-10 01:50:41,159 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 18:36:23,480 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-04-11 18:36:29,193 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 18:36:29,194 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 18:36:29,219 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 18:36:29,230 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 18:43:42,917 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 18:43:42,941 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 18:43:42,951 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 18:43:42,952 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 18:45:43,644 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 18:45:43,674 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 18:45:43,689 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 18:45:43,700 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 19:01:37,782 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.cifpag:CifPag:0.0.1-SNAPSHOT @ /home/michell/Documentos/Softwares/CifPag/CifPag/pom.xml.
+2018-04-11 19:01:38,315 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-04-11 19:01:39,413 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-04-11 19:01:48,924 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 19:01:48,946 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 19:01:48,989 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 19:01:48,993 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 19:01:49,001 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CifPag
+2018-04-11 19:01:49,013 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CifPag
+2018-04-11 19:01:49,133 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 19:02:18,054 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-04-11 19:02:19,294 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 19:02:19,358 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 19:02:19,362 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 19:02:19,363 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 19:10:36,136 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 19:10:36,156 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 19:10:36,160 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 19:10:36,161 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 19:23:36,503 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.cifpag:CifPag:0.0.1-SNAPSHOT @ /home/michell/Documentos/Softwares/CifPag/CifPag/pom.xml.
+2018-04-11 19:23:37,600 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-04-11 19:23:41,127 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-04-11 19:23:55,907 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 19:23:55,948 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 19:23:56,020 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 19:23:56,045 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 20:05:40,957 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-04-11 20:05:41,810 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 20:05:41,810 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 20:05:41,836 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 20:05:41,837 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 20:20:14,117 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 20:20:14,147 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 20:20:14,158 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 20:20:14,169 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 20:20:30,097 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 20:20:30,105 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 20:20:30,127 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 20:20:30,128 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 20:21:09,823 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 20:21:09,824 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 20:21:09,835 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 20:21:09,847 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 20:27:37,852 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-04-11 20:29:37,544 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 20:29:38,175 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 20:29:38,511 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 20:29:38,558 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 20:31:08,975 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 20:31:08,992 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 20:31:09,015 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 20:31:09,016 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 21:04:07,074 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 21:04:07,113 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 21:04:07,136 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 21:04:07,159 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 21:07:38,005 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 21:07:38,038 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 21:07:38,074 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 21:07:38,083 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 21:11:01,815 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 21:11:01,838 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 21:11:01,859 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 21:11:01,867 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 21:11:30,431 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 21:11:30,432 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 21:11:30,450 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 21:11:30,468 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 21:14:34,067 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 21:14:34,075 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 21:14:34,094 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 21:14:34,094 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 21:15:33,398 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 21:15:33,399 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 21:15:33,449 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 21:15:33,451 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 21:18:05,913 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 21:18:05,949 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 21:18:05,952 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 21:18:05,952 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 21:21:28,611 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-04-11 21:21:34,936 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 21:21:34,960 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 21:21:35,011 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 21:21:35,012 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 21:46:56,283 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 21:46:56,304 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 21:46:56,327 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 21:46:56,328 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 21:53:59,179 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 21:53:59,200 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 21:53:59,208 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 21:53:59,208 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 21:57:45,395 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 21:57:45,407 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 21:57:45,426 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 21:57:45,427 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 22:03:52,453 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 22:03:52,462 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 22:03:52,480 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 22:03:52,492 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 22:11:00,285 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 22:11:00,339 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 22:11:00,380 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 22:11:00,385 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 22:13:13,164 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 22:13:13,184 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 22:13:13,194 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 22:13:13,195 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 22:13:22,624 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 22:13:22,625 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 22:13:22,649 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 22:13:22,658 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 22:13:41,734 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 22:13:41,735 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 22:13:41,775 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 22:13:41,775 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 22:18:51,368 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 22:18:51,398 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 22:18:51,427 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 22:18:51,427 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 22:21:45,332 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 22:21:45,351 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 22:21:45,381 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 22:21:45,382 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 22:26:37,288 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 22:26:37,303 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 22:26:37,314 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 22:26:37,315 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 22:31:27,009 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 22:31:27,025 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 22:31:27,042 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 22:31:27,043 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 22:38:28,737 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-04-11 22:38:34,750 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 22:38:34,757 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 22:38:34,785 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 22:38:34,790 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 23:07:32,369 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 23:07:32,406 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 23:07:32,422 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 23:07:32,423 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 23:15:57,229 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 23:15:57,235 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 23:15:57,243 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 23:15:57,243 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 23:16:29,695 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 23:16:29,723 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 23:16:29,727 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 23:16:29,736 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 23:18:21,620 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 23:18:21,621 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 23:18:21,674 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 23:18:21,675 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-11 23:56:25,797 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-04-11 23:56:31,995 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 23:56:32,007 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-11 23:56:32,027 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-11 23:56:32,041 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-12 18:01:41,399 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-04-12 18:01:47,622 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 18:01:47,623 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-12 18:01:47,664 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 18:01:47,678 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-12 18:12:51,443 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 18:12:51,471 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-12 18:12:51,503 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 18:12:51,513 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-12 18:34:01,089 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 18:34:01,109 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-12 18:34:01,125 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 18:34:01,126 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-12 18:39:24,765 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 18:39:24,773 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-12 18:39:24,783 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 18:39:24,789 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-12 18:39:35,727 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 18:39:35,742 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-12 18:39:35,765 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 18:39:35,772 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-12 18:43:44,369 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 18:43:44,460 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-12 18:43:44,499 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 18:43:44,515 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-12 18:44:53,700 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 18:44:53,713 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-12 18:44:53,716 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 18:44:53,737 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-12 18:47:32,006 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 18:47:32,009 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-12 18:47:32,049 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 18:47:32,052 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-12 18:51:08,403 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-04-12 18:51:17,266 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 18:51:17,285 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-12 18:51:17,344 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 18:51:17,352 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-12 19:25:37,839 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 19:25:37,861 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-12 19:25:37,864 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 19:25:37,890 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-12 19:47:39,399 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 19:47:39,418 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-12 19:47:39,431 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 19:47:39,439 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-12 19:49:01,760 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 19:49:01,770 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-12 19:49:01,786 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 19:49:01,793 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-12 19:50:04,039 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 19:50:04,099 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-12 19:50:04,140 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 19:50:04,140 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-12 19:52:40,934 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 19:52:40,951 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-12 19:52:40,971 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 19:52:40,972 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-12 19:52:47,344 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 19:52:47,352 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-12 19:52:47,376 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 19:52:47,397 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-12 19:53:46,011 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 19:53:46,027 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-12 19:53:46,043 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 19:53:46,047 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-12 20:10:34,442 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-04-12 20:10:40,174 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 20:10:40,177 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-12 20:10:40,195 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 20:10:40,210 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-12 20:40:37,568 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 20:40:37,573 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-12 20:40:37,576 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 20:40:37,593 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-12 20:40:42,586 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 20:40:42,594 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-12 20:40:42,610 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 20:40:42,622 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-12 20:48:46,769 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-04-12 20:48:52,497 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 20:48:52,511 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-12 20:48:52,541 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 20:48:52,541 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-12 21:07:33,682 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-04-12 21:07:39,649 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 21:07:39,651 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-12 21:07:39,680 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-12 21:07:39,696 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-04-13 01:03:12,584 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-13 01:03:12,675 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
+2018-04-13 01:03:12,699 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-13 01:03:12,700 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources

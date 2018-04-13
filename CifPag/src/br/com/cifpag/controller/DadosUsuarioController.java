@@ -58,6 +58,7 @@ public class DadosUsuarioController {
 	@RequestMapping(value = "/Cadastro")
 	public ModelAndView Cadastro() {
 		DadosUsuario dadosUsuario = new DadosUsuario();
+		
 		ModelAndView view = new ModelAndView("DadosUsuario/Cadastrar");
 		view.addObject("dadosUsuario", dadosUsuario);
 		return view;
@@ -94,40 +95,17 @@ public class DadosUsuarioController {
 	@RequestMapping(value = "/Salvar", method = RequestMethod.POST)
 	public String Salvar(DadosUsuario dadosUsuario, Cidade cidade, Endereco endereco, Usuario usuario) {
 		try{
+			
 			UsuarioDao daoUsuario = new UsuarioDaoImplementacao();
-			Usuario user = new Usuario();
-			user.setUsuaId(usuario.getUsuaId());
-			user.setUsuaUsuario(usuario.getUsuaUsuario());
-			user.setUsuaSenha(usuario.getUsuaSenha());
-			daoUsuario.save(user);
-			
 			EnderecoDao daoEndereco = new EnderecoDaoImplementacao();
-			Endereco adress = new Endereco();
-			adress.setEndeEndereco(endereco.getEndeEndereco());
-			adress.setEndeBairro(endereco.getEndeBairro());
-			adress.setEndeNumero(endereco.getEndeNumero());
-			adress.setEndeCidade(Integer.parseInt(cidade.getCidaCidade()));
-			daoEndereco.save(adress);
-			
 			DadosUsuarioDao dao = new DadosUsuarioImplementacao();
-			DadosUsuario dadoUsuario = new DadosUsuario();
-			dadoUsuario.setClieNome(dadosUsuario.getClieNome());
-			dadoUsuario.setClieCnpj(dadosUsuario.getClieCnpj());
-			dadoUsuario.setClieCpf(dadosUsuario.getClieCpf());
-			//dadoUsuario.setClieEndereco(clieEndereco);		
-			dadoUsuario.setClieNomeFantasia(dadosUsuario.getClieNomeFantasia());
-			dadoUsuario.setClieTelefone(dadosUsuario.getClieTelefone());
-			dadoUsuario.setClieCelular(dadosUsuario.getClieCelular());
-			dadoUsuario.setClieRg(dadosUsuario.getClieRg());
 			
-			EntityManager em = new ConexaoEntityFactory().getEntityManager();
-			Query query = (Query) em.createNativeQuery("SELECT usua_id FROM controle_acesso.usuario WHERE usua_usuario = " + "'" + usuario.getUsuaUsuario() + "'");
-			Object obj = query.getSingleResult();
-			int idUsuario = Integer.parseInt(obj.toString());
 			
-			dadoUsuario.setClieUsuario(idUsuario);
-			dadoUsuario.setClieDataNascimento(dadosUsuario.getClieDataNascimento());
-			dadoUsuario.setClieTipoPessoa(dadosUsuario.getClieTipoPessoa());
+			Usuario userSalvo = daoUsuario.save(usuario);			
+			endereco.setEndeCidade(Integer.parseInt(cidade.getCidaCidade()));
+			Endereco enderecoSalvo = daoEndereco.save(endereco);
+			dadosUsuario.setClieUsuario(userSalvo.getUsuaId());
+			dadosUsuario.setClieEndereco(enderecoSalvo.getEndeId());
 			dao.save(dadosUsuario);
 			
 			return "redirect:/DadosUsuario/Consulta?mensagem=sucesso";

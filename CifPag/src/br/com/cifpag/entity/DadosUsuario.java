@@ -2,6 +2,7 @@ package br.com.cifpag.entity;
 
 import java.io.Serializable;
 import java.sql.Date;
+import java.time.LocalDate;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -150,4 +151,10 @@ public class DadosUsuario implements Serializable {
 	public void setClieRg(String clieRg) {
 		this.clieRg = clieRg;
 	}
+
+public DadosUsuario(){
+	
+	clieDataNascimento = Date.valueOf(LocalDate.of(1995, 02, 10));
+}
+
 }

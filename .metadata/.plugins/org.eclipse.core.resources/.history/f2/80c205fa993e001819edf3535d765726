@@ -1,0 +1,270 @@
+package br.com.cifpag.controller;
+
+import java.io.File;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.persistence.EntityManager;
+import javax.persistence.Query;
+import javax.servlet.http.HttpServletRequest;
+import javax.xml.bind.JAXBContext;
+import javax.xml.bind.Unmarshaller;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.parsers.ParserConfigurationException;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.ModelMap;
+import org.springframework.validation.BindingResult;
+import javax.validation.Valid;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.servlet.ModelAndView;
+import org.w3c.dom.Document;
+import org.w3c.dom.Element;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
+import org.xml.sax.SAXException;
+
+import javax.xml.validation.*;
+
+import br.com.cifpag.entity.Pedido;
+import br.com.cifpag.entity.PedidoImportList;
+import br.com.cifpag.entity.SimpleUploadFile;
+import br.com.cifpag.model.PedidoModel;
+import br.com.cifpag.uteis.ConexaoEntityFactory;
+import br.com.cifpag.uteis.SimpleUploadFileValidator;
+import br.com.cifpag.uteis.UploadFileHelper;
+
+@Controller
+@RequestMapping("/Pedido")
+public class PedidoController {
+	
+	@RequestMapping(value = "/Consulta")
+	public ModelAndView ViewDashboardAlteracao(String pedido) {
+		ModelAndView view = new ModelAndView("Pedido/Consulta");
+		view.addObject("pedido", pedido);
+		return view;
+	}
+	
+	@RequestMapping(value="/testeXml")
+	public String testeXml(){
+		getXMLFiles(new File("/home/michell/Documentos/ls"));
+		return "redirect:/Pedido/Consulta?mensagem=sucesso";
+	}
+	
+	public static File[] getXMLFiles(File folder) {
+	    List<File> aList = new ArrayList<File>();
+	    File[] files = folder.listFiles();
+	    for (File pf : files) {
+
+	      if (pf.isFile() && getFileExtensionName(pf).indexOf("xml") != -1) {
+	        aList.add(pf);
+	      }
+	      
+	      String caminho = (folder +"/"+ pf.getName());
+	      
+	      EntityManager em = new ConexaoEntityFactory().getEntityManager();
+	      Query query = (Query) em.createNativeQuery("SELECT arim_nome FROM sistema.arquivos_importados");
+	      List<Object[]> list = query.getResultList();
+	      System.out.println("Lista" + list);
+	     	  
+	    	  if (list.contains(pf.getName())){
+	    		  System.out.println("Arquivo ja existe!");
+	    	  }else{
+	    		  System.out.println("Novo Arquivo!");
+	    	  }
+	      
+	      
+	     
+	      
+	      try {
+				DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
+				DocumentBuilder builder = factory.newDocumentBuilder();
+				
+				try {
+					Document doc = builder.parse(caminho);
+					
+					NodeList listaDeVenda = doc.getElementsByTagName("venda");
+					int tamanhoDaLista = listaDeVenda.getLength();
+					
+					NodeList listaDeProdutos = doc.getElementsByTagName("item");
+					int tamanhoDaListaDeProdutos = listaDeProdutos.getLength();
+					
+					for(int k = 0; k < tamanhoDaListaDeProdutos; k++){
+						Node noDeProdutos = listaDeProdutos.item(k);
+						
+						if(noDeProdutos.getNodeType() == Node.ELEMENT_NODE){
+							Element elementoProduto = (Element) noDeProdutos;
+							NodeList listaNosFilhosProdutos = elementoProduto.getChildNodes();
+							int tamandoListaNosFilhosProdutos = listaNosFilhosProdutos.getLength();
+							
+							for(int l = 0; l < tamandoListaNosFilhosProdutos; l++){
+								Node nosFilhoProdutos = listaNosFilhosProdutos.item(l);
+								
+								if(nosFilhoProdutos.getNodeType() == Node.ELEMENT_NODE){
+									Element elementoNoProduto = (Element) nosFilhoProdutos;
+									
+									switch(elementoNoProduto.getTagName()){
+									case "VDIPRONOME":
+										System.out.println("Produto: " + elementoNoProduto.getTextContent());
+										break;
+									case "VDIQTDE":
+										System.out.println("Quantidade: " + elementoNoProduto.getTextContent());
+										break;
+									case "VDIVALOR":
+										System.out.println("PrecoUnitario: " + elementoNoProduto.getTextContent());
+										break;
+									}
+								}
+							}
+						}
+					}//FIM DO FOR DE PRODUTOS
+					
+					for(int i = 0; i < tamanhoDaLista; i++ ){
+						Node noDeVenda = listaDeVenda.item(i);
+						
+						if(noDeVenda.getNodeType() == Node.ELEMENT_NODE){
+							Element elementoVenda = (Element) noDeVenda;
+							NodeList listaNosFilhosVenda = elementoVenda.getChildNodes();
+							int tamanhoListaNosFilhosVenda = listaNosFilhosVenda.getLength();
+							
+							for(int j = 0; j < tamanhoListaNosFilhosVenda; j++){
+								Node noFilhosVenda = listaNosFilhosVenda.item(j);
+								
+								if(noFilhosVenda.getNodeType() == Node.ELEMENT_NODE){
+									Element elementoNoVenda = (Element) noFilhosVenda;
+									
+									switch(elementoNoVenda.getTagName()){
+										case "VEDCLINOME":
+											System.out.println("Cliente: " + elementoNoVenda.getTextContent());
+											break;
+										case "VEDID":
+											System.out.println("NumeroDocumento: " + elementoNoVenda.getTextContent());
+											break;
+										case "VEDABERTURA":
+											System.out.println("DataDocumento: " + elementoNoVenda.getTextContent());
+											break;
+									}
+								}
+							}
+						}
+					}//FIM DO FOR DE DADOS USUARIO	
+					
+					//FALTA CRIAR AS FK PARA VINCULACAO AGUARDANDO O CPF
+				} catch (SAXException e) {
+					e.printStackTrace();
+				} catch (IOException e) {
+					e.printStackTrace();
+				}	
+			} catch (ParserConfigurationException e) {
+				e.printStackTrace();
+			}
+	      
+	      
+	    }
+	    return aList.toArray(new File[aList.size()]);
+	    
+	  }
+
+	  public static String getFileExtensionName(File f) {
+	    if (f.getName().indexOf(".") == -1) {
+	      return "";
+	    } else {
+	      return f.getName().substring(f.getName().length() - 3, f.getName().length());
+	    }
+	  }
+	
+	@RequestMapping(value = "/LerPedidoXML")
+	public String LerPedidoXML() {		
+		
+		try {
+			DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
+			DocumentBuilder builder = factory.newDocumentBuilder();
+			
+			try {
+				Document doc = builder.parse("/home/michell/Documentos/Softwares/CifPag/Arquivos/arquivoMichel.XML");
+				
+				NodeList listaDeVenda = doc.getElementsByTagName("venda");
+				int tamanhoDaLista = listaDeVenda.getLength();
+				
+				NodeList listaDeProdutos = doc.getElementsByTagName("item");
+				int tamanhoDaListaDeProdutos = listaDeProdutos.getLength();
+				
+				for(int k = 0; k < tamanhoDaListaDeProdutos; k++){
+					Node noDeProdutos = listaDeProdutos.item(k);
+					
+					if(noDeProdutos.getNodeType() == Node.ELEMENT_NODE){
+						Element elementoProduto = (Element) noDeProdutos;
+						NodeList listaNosFilhosProdutos = elementoProduto.getChildNodes();
+						int tamandoListaNosFilhosProdutos = listaNosFilhosProdutos.getLength();
+						
+						for(int l = 0; l < tamandoListaNosFilhosProdutos; l++){
+							Node nosFilhoProdutos = listaNosFilhosProdutos.item(l);
+							
+							if(nosFilhoProdutos.getNodeType() == Node.ELEMENT_NODE){
+								Element elementoNoProduto = (Element) nosFilhoProdutos;
+								
+								switch(elementoNoProduto.getTagName()){
+								case "VDIPRONOME":
+									System.out.println("Produto: " + elementoNoProduto.getTextContent());
+									break;
+								case "VDIQTDE":
+									System.out.println("Quantidade: " + elementoNoProduto.getTextContent());
+									break;
+								case "VDIVALOR":
+									System.out.println("PrecoUnitario: " + elementoNoProduto.getTextContent());
+									break;
+								}
+							}
+						}
+					}
+				}//FIM DO FOR DE PRODUTOS
+				
+				for(int i = 0; i < tamanhoDaLista; i++ ){
+					Node noDeVenda = listaDeVenda.item(i);
+					
+					if(noDeVenda.getNodeType() == Node.ELEMENT_NODE){
+						Element elementoVenda = (Element) noDeVenda;
+						NodeList listaNosFilhosVenda = elementoVenda.getChildNodes();
+						int tamanhoListaNosFilhosVenda = listaNosFilhosVenda.getLength();
+						
+						for(int j = 0; j < tamanhoListaNosFilhosVenda; j++){
+							Node noFilhosVenda = listaNosFilhosVenda.item(j);
+							
+							if(noFilhosVenda.getNodeType() == Node.ELEMENT_NODE){
+								Element elementoNoVenda = (Element) noFilhosVenda;
+								
+								switch(elementoNoVenda.getTagName()){
+									case "VEDCLINOME":
+										System.out.println("Cliente: " + elementoNoVenda.getTextContent());
+										break;
+									case "VEDID":
+										System.out.println("NumeroDocumento: " + elementoNoVenda.getTextContent());
+										break;
+									case "VEDABERTURA":
+										System.out.println("DataDocumento: " + elementoNoVenda.getTextContent());
+										break;
+								}
+							}
+						}
+					}
+				}//FIM DO FOR DE DADOS USUARIO	
+				
+				//FALTA CRIAR AS FK PARA VINCULACAO AGUARDANDO O CPF
+			} catch (SAXException e) {
+				e.printStackTrace();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}	
+		} catch (ParserConfigurationException e) {
+			e.printStackTrace();
+		}
+		return "redirect:/Pedido/Consulta?mensagem=sucesso";
+	}
+	
+	//CONTINUA
+}

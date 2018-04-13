@@ -1,0 +1,13 @@
+package br.com.cifpag.entity;
+
+import org.springframework.web.multipart.MultipartFile;
+
+public class SimpleUploadFile {
+	
+	private MultipartFile file;
+	
+	public MultipartFile getFile() {
+		return file;
+	}
+
+}

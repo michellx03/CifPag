@@ -1,0 +1,13 @@
+package br.com.cifpag.entity;
+
+import java.util.List;
+
+public class PedidoImportList {
+	
+	public PedidoImportList() {
+		super();
+	}
+	
+	public PedidoImportList(List<Pedido> pedidoImport) {
+		
+	}

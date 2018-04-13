@@ -1,6 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java"%>
 <%@taglib prefix="t" tagdir="/WEB-INF/tags"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+<%@ taglib prefix="s" uri="http://www.springframework.org/tags/form" %>
 
 <%@page import="javax.persistence.Query"%>
 <%@page import="javax.persistence.EntityManager"%>
@@ -62,13 +63,15 @@
 					%>
 					
 				<div class="btn-group">
-						<a href="/CifPag/Pedido/Cadastro"
+						<a href="/CifPag/Pedido/testeXml"
 							id="sample_editable_1_new" class="btn sbold green"> Ler Pedido
 							<i class="fa fa-plus"></i>
 						</a>
 					</div>
 				</div>
+
 				
+
 				<div class="portlet-title">
 					<div class="caption font-dark">
 						<i class="icon-settings font-dark"></i> <span
@@ -97,7 +100,7 @@
 
 							<%
 								EntityManager em = new ConexaoEntityFactory().getEntityManager();
-									Query query = (Query) em.createNativeQuery("SELECT pedi_id, pedi_cliente, clie_nome, clie_endereco, cida_cidade, vend_vendedor, pedi_numero_documento, pedi_valor_total FROM sistema.pedido INNER JOIN sistema.dados_usuario ON pedi_cliente = clie_id INNER JOIN sistema.endereco ON clie_endereco = ende_id INNER JOIN sistema.cidade ON ende_id = cida_id INNER JOIN sistema.vendedor ON pedi_vendedor = vend_id");
+									Query query = (Query) em.createNativeQuery("SELECT pedi_id, pedi_cliente, clie_nome, clie_endereco, cida_cidade, vend_vendedor, pedi_numero_documento FROM sistema.pedido INNER JOIN sistema.dados_usuario ON pedi_cliente = clie_id INNER JOIN sistema.endereco ON clie_endereco = ende_id INNER JOIN sistema.cidade ON ende_id = cida_id INNER JOIN sistema.vendedor ON pedi_vendedor = vend_id");
 									List<Object[]> list = query.getResultList();
 									for (Object[] obj : list) {
 							%>
@@ -130,12 +133,12 @@
 								</td>
 								<td>
 									<%
-										out.print(obj[7]);
+										out.print(0);
 									%>
 								</td>
 								<td>
 									<%
-										out.print(obj[7]);
+										out.print("AGUARDANDO...");
 									%>
 								</td>
 								<td class="hidden-xs">
@@ -212,6 +215,13 @@
 			$("#pedido_li_consulta").addClass('active open');
 
 		});
+		
+		$('#teste').click(function () {
+			var aqui = $("#imagem").val();
+			document.getElementById('fotoParaSubir').value = aqui;
+		});
+
+		
 	</script>
 
 <script

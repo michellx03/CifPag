@@ -1,0 +1,18 @@
+package br.com.cifpag.uteis;
+
+import java.io.*;
+import java.util.*;
+import javax.servlet.http.*;
+import org.springframework.web.multipart.*;
+
+public class UploadFileHelper {
+	
+	public static String simpleUpload(MultipartFile file, HttpServletRequest request, boolean encrypt_file_name, String upload_folder) {
+		try{
+			if (!file.isEmpty()) {
+				String
+			}
+		}
+	}
+
+}

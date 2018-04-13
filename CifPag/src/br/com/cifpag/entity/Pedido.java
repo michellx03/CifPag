@@ -9,6 +9,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
+import javax.xml.bind.annotation.XmlRootElement;
 
 @Entity
 @Table(name="pedido", schema="sistema")
@@ -40,9 +41,6 @@ public class Pedido implements Serializable {
 	@Column(name="pedi_preco_unitario_produto")
 	private Double pediPrecoUnitarioProduto;
 	
-	@Column(name="pedi_preco_total_produto")
-	private Double pediPrecoTotalProduto;
-	
 	@Column(name="pedi_total_desconto_produto")
 	private Double pediTotalDescontoProduto;
 	
@@ -51,24 +49,6 @@ public class Pedido implements Serializable {
 	
 	@Column(name="pedi_porcentagem_desconto_produto")
 	private Double pediPorcentagemDescontoProduto;
-	
-	@Column(name="pedi_total_peso")
-	private Double pediTotalPeso;
-	
-	@Column(name="pedi_quantidade_total")
-	private Integer pediQuantidadeTotal;
-	
-	@Column(name="pedi_desconto_total")
-	private Double pediDescontoTotal;
-	
-	@Column(name="pedi_porcentagem_total")
-	private Double pediPorcentagemTotal;
-	
-	@Column(name="pedi_valor_total")
-	private Double pediValorTotal;
-	
-	@Column(name="pedi_valor_final")
-	private Double pediValorFinal; 
 	
 	@Column(name="pedi_empresa")
 	private Integer pediEmpresa;

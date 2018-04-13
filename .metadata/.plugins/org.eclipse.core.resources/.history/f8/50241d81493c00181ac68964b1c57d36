@@ -1,0 +1,5 @@
+package br.com.cifpag.uteis;
+
+public class SimpleUploadFileValidator {
+
+}

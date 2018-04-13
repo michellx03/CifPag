@@ -7,7 +7,6 @@
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMethod"/>
 <fullyQualifiedTypeName name="br.com.cifpag.daoGenericos.CidadeDao"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
-<fullyQualifiedTypeName name="br.com.cifpag.entity.Endereco"/>
 <fullyQualifiedTypeName name="br.com.cifpag.daoGenericos.EnderecoDao"/>
 <fullyQualifiedTypeName name="br.com.cifpag.entity.DadosUsuario"/>
 <fullyQualifiedTypeName name="br.com.cifpag.daoGenericos.DadosUsuarioDao"/>
@@ -30,8 +29,18 @@
 <fullyQualifiedTypeName name="br.com.cifpag.uteis.ConexaoEntityFactory"/>
 <fullyQualifiedTypeName name="javax.persistence.Query"/>
 <fullyQualifiedTypeName name="java.lang.Object"/>
-<fullyQualifiedTypeName name="java.sql.Date"/>
 <fullyQualifiedTypeName name="br.com.cifpag.dao.Dao"/>
 <fullyQualifiedTypeName name="br.com.cifpag.dao.DaoImplementacao"/>
 <fullyQualifiedTypeName name="br.com.cifpag.entity.Pedido"/>
+<fullyQualifiedTypeName name="javax.xml.parsers.DocumentBuilderFactory"/>
+<fullyQualifiedTypeName name="javax.xml.parsers.DocumentBuilder"/>
+<fullyQualifiedTypeName name="org.w3c.dom.Document"/>
+<fullyQualifiedTypeName name="org.w3c.dom.NodeList"/>
+<fullyQualifiedTypeName name="org.w3c.dom.Node"/>
+<fullyQualifiedTypeName name="org.w3c.dom.Element"/>
+<fullyQualifiedTypeName name="br.com.cifpag.entity.Endereco"/>
+<fullyQualifiedTypeName name="java.time.LocalDate"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>
