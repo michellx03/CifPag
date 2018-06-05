@@ -26,7 +26,7 @@ License: You must have a valid license purchased only from themeforest(the above
 
 <head>
 <meta charset="utf-8" />
-<title>Metronic Admin Theme #1 | User Login 1</title>
+<title>CifPag</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta content="width=device-width, initial-scale=1" name="viewport" />
 <meta content="Preview page of Metronic Admin Theme #1 for "
@@ -119,10 +119,27 @@ License: You must have a valid license purchased only from themeforest(the above
 			<div class="form-actions">
 				<button type="submit" id="btnLogar" class="btn green uppercase">Login</button>
 
+				 <a href="javascript:;" id="forget-password" class="forget-password">Esqueceu sua senha?</a>
 			</div>
 
-		</form>
-
+                <div class="login-options">
+                    <ul class="social-icons">
+                        <li>
+                            <a class="social-icon-color facebook" data-original-title="facebook" href="javascript:;"></a>
+                        </li>
+                        <li>
+                            <a class="social-icon-color googleplus" data-original-title="Goole Plus" href="javascript:;"></a>
+                        </li>
+                    </ul>
+                </div>
+               <div class="create-account">
+               <p>
+                 <a href="" id="register-btn" class="uppercase">Crie sua conta!</a>
+               </p>
+            </div>
+			</form>
+			
+ 			
 		<!-- END REGISTRATION FORM -->
 	</div>
 	<div class="copyright">2014 © Metronic. Admin Dashboard Template.

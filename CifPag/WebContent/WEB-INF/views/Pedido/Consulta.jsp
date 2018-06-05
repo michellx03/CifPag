@@ -64,13 +64,13 @@
 					
 				<div class="btn-group">
 						<a href="/CifPag/Pedido/testeXml"
-							id="sample_editable_1_new" class="btn sbold green"> Ler Pedido
+							id="sample_editable_1_new" class="btn sbold green"> Ler Pedidos
 							<i class="fa fa-plus"></i>
 						</a>
 					</div>
 				</div>
 
-				
+								
 
 				<div class="portlet-title">
 					<div class="caption font-dark">
@@ -84,33 +84,29 @@
 						id="sample_1">
 						<thead>
 							<tr>
-								<th>Id</th>
+								
 								<th>Cliente</th>
-								<th>Cidade</th>
-								<th>Vendedor</th>
-								<th>Numero Nota</th>
+								<th>Data</th>
+								<th>N. Pedido</th>
 								<th>Total</th>
-								<th>Status Pagamento</th>
+								<th>Status</th>
 								<th style="width: 87px;" class="hidden-xs">Ações</th>
 							</tr>
 						</thead>
-
 
 						<tbody>
 
 							<%
 								EntityManager em = new ConexaoEntityFactory().getEntityManager();
-									Query query = (Query) em.createNativeQuery("SELECT pedi_id, pedi_cliente, clie_nome, clie_endereco, cida_cidade, vend_vendedor, pedi_numero_documento FROM sistema.pedido INNER JOIN sistema.dados_usuario ON pedi_cliente = clie_id INNER JOIN sistema.endereco ON clie_endereco = ende_id INNER JOIN sistema.cidade ON ende_id = cida_id INNER JOIN sistema.vendedor ON pedi_vendedor = vend_id");
+									Query query = (Query) em.createNativeQuery("SELECT DISTINCT (pedi_numero_documento) pedi_numero_documento, pedi_id, pedi_cliente, pedi_data_documento, pedi_preco_unidade_produto FROM sistema.pedido");
 									List<Object[]> list = query.getResultList();
 									for (Object[] obj : list) {
+									
+										
 							%>
 
 							<tr>
-								<td>
-									<%
-										out.print(obj[0]);
-									%>
-								</td>
+								
 								<td>
 									<%
 										out.print(obj[2]);
@@ -118,27 +114,30 @@
 								</td>
 								<td>
 									<%
-										out.print(obj[4]);
+										out.print(obj[3]);
 									%>
 								</td>
 								<td>
 									<%
-										out.print(obj[5]);
+										out.print(obj[0]);
 									%>
 								</td>
 								<td>
 									<%
-										out.print(obj[6]);
+								
+										EntityManager emSoma = new ConexaoEntityFactory().getEntityManager();
+										Query querySoma = (Query) emSoma.createNativeQuery("SELECT SUM (pedi_quantidade * pedi_preco_unidade_produto) AS valor_total FROM sistema.pedido WHERE pedi_numero_documento ="+"'"+obj[0].toString()+"'");
+										Object objSoma = querySoma.getSingleResult();
+										
+										Double somaProdutos = Double.parseDouble(objSoma.toString());							
+										System.out.println("SOMA: " + somaProdutos);
+										//SOMAR VALORES
+										out.print(somaProdutos);
 									%>
 								</td>
 								<td>
 									<%
-										out.print(0);
-									%>
-								</td>
-								<td>
-									<%
-										out.print("AGUARDANDO...");
+										out.print("AGUARDANDO");
 									%>
 								</td>
 								<td class="hidden-xs">
@@ -148,12 +147,9 @@
 											Ações <i class="fa fa-angle-down"></i>
 										</button>
 										<ul class="dropdown-menu pull-right">
+											
 											<li><a
-												href="/CifPag/Pedido/Editar?id=<%out.print(obj[0]);%>">
-													<i class="fa fa-edit"></i> Alterar
-											</a></li>
-											<li><a
-												href="/CifPag/Pedido/Excluir?id=<%out.print(obj[0]);%>">
+												href="/CifPag/Pedido/Excluir?id=<%out.print(obj[1]);%>">
 													<i class="fa fa-remove"></i> Excluir
 											</a></li>
 										</ul>

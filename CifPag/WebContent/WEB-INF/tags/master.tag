@@ -233,10 +233,18 @@ License: You must have a valid license purchased only from themeforest(the above
                                     <span class="arrow open"></span>
                                 </a>
                                 <ul class="sub-menu">
+                               <!-- FAZER IF PARA REGRA DE EXIBICAO -->
                                     <li id="pedido_li_consulta" class="nav-item start">
                                         <a href="/CifPag/Pedido/Consulta" class="nav-link ">
                                             <i class="icon-user"></i>
-                                            <span class="title">Pedido</span>
+                                            <span class="title">Pedidos</span>
+                                            <span class="selected"></span>
+                                        </a>
+                                    </li>
+                                    <li id="pedido_pagamento_li_consulta" class="nav-item start">
+                                        <a href="/CifPag/Pedido/Pagamento" class="nav-link ">
+                                            <i class="icon-user"></i>
+                                            <span class="title">Pagamentos</span>
                                             <span class="selected"></span>
                                         </a>
                                     </li>

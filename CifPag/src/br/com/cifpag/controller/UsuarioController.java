@@ -1,12 +1,19 @@
 package br.com.cifpag.controller;
 
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
 import br.com.cifpag.entity.Usuario;
+import br.com.cifpag.model.ControleAcessoModel;
 import br.com.cifpag.model.UsuarioModel;
+
+//import org.springframework.security.core.Authentication;
+//import org.springframework.security.core.context.SecurityContextHolder;
 
 @Controller
 @RequestMapping("/Usuario")
