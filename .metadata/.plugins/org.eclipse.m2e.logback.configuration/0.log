@@ -3335,3 +3335,19 @@
 2018-04-13 01:03:12,675 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/main/resources
 2018-04-13 01:03:12,699 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-04-13 01:03:12,700 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/CifPag/CifPag/src/test/resources
+2018-07-27 15:48:35,972 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.cifpag:CifPag:0.0.1-SNAPSHOT @ D:\Softwares\CifPag\CifPag\pom.xml.
+2018-07-27 15:48:36,979 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-07-27 15:48:39,215 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-07-27 15:48:48,569 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-27 15:48:48,570 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Softwares\CifPag\CifPag\src\main\resources
+2018-07-27 15:48:48,574 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-27 15:48:48,575 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Softwares\CifPag\CifPag\src\test\resources
+2018-07-27 15:48:48,588 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CifPag
+2018-07-27 15:48:48,589 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CifPag
+2018-07-27 15:48:48,595 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2018-07-27 15:48:48,605 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-27 15:54:26,367 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-07-27 15:54:26,503 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-27 15:54:26,504 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Softwares\CifPag\CifPag\src\main\resources
+2018-07-27 15:54:26,507 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-27 15:54:26,508 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Softwares\CifPag\CifPag\src\test\resources
